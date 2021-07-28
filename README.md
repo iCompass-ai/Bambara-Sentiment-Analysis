@@ -21,3 +21,10 @@ booktitle={Practical ML for Developing Countries Workshop. ICLR 2021, Virtual Ev
 year      = {2021},
 
 }
+
+# Contact information
+* Website: https://www.icompass.tn/
+
+* Twitter: @iCompass_
+
+* Email: team@icompass.digital
