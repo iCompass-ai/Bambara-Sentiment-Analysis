@@ -9,17 +9,14 @@ Data was collected by the iCompass team (http://www.icompass.tn).
 BAMBARA was preprocessed by removing links, emoji symbols and punctuation. Annotation was then performed by TWO Malian native speakers, who are engineering students. Sentences are annotated as positive (1), negative(-1), or neutral (0).
 
 # Paper citation
-
-@inproceedings{Bambara2021, 
-
-title={Bambara Language Dataset for  Sentiment Analysis},
-
-author={Diallo, Mountaga and Fourati, Chayma and Haddad, Hatem},
-
-booktitle={Practical ML for Developing Countries Workshop. ICLR 2021, Virtual Event},
-
-year      = {2021},
-
+@article{BambaraSA,
+      title={Bambara Language Dataset for Sentiment Analysis}, 
+      author={Mountaga Diallo and Chayma Fourati and Hatem Haddad},
+      year={2021},
+      eprint={2108.02524},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2108.02524}
 }
 
 # Contact information
