@@ -10,15 +10,21 @@ BAMBARA was preprocessed by removing links, emoji symbols and punctuation. Annot
 
 # Paper citation
 @article{BambaraSA,
-      title={Bambara Language Dataset for Sentiment Analysis}, 
-      author={Mountaga Diallo and Chayma Fourati and Hatem Haddad},
-      year={2021},
-      eprint={2108.02524},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2108.02524}
-}
 
+   title={Bambara Language Dataset for Sentiment Analysis}, 
+   
+   author={Mountaga Diallo and Chayma Fourati and Hatem Haddad},
+   
+   year={2021},
+   
+   eprint={2108.02524},
+   
+   archivePrefix={arXiv},
+   
+   primaryClass={cs.CL},
+   
+   url={https://arxiv.org/abs/2108.02524}
+}
 # Contact information
 * Website: https://www.icompass.tn/
 
