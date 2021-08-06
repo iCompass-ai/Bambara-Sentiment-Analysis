@@ -23,7 +23,7 @@ Find more in our paper: https://arxiv.org/abs/2108.02524
    
    archivePrefix={arXiv},
    
-   primaryClass={cs.CL},
+   primaryClass={cs.CL}
 }
 # Contact information
 * Website: https://www.icompass.tn/
