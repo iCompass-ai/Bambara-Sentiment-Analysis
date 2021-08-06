@@ -8,6 +8,8 @@ Data was collected by the iCompass team (http://www.icompass.tn).
 # Preprocessing and annotation
 BAMBARA was preprocessed by removing links, emoji symbols and punctuation. Annotation was then performed by TWO Malian native speakers, who are engineering students. Sentences are annotated as positive (1), negative(-1), or neutral (0).
 
+Find more in our paper: https://arxiv.org/abs/2108.02524
+
 # Paper citation
 @article{BambaraSA,
 
@@ -22,8 +24,6 @@ BAMBARA was preprocessed by removing links, emoji symbols and punctuation. Annot
    archivePrefix={arXiv},
    
    primaryClass={cs.CL},
-   
-   url={https://arxiv.org/abs/2108.02524}
 }
 # Contact information
 * Website: https://www.icompass.tn/
